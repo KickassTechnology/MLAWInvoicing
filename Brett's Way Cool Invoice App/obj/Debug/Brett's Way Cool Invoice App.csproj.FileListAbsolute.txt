@@ -1,0 +1,9 @@
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\bin\Debug\Brett's Way Cool Invoice App.exe.config
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\bin\Debug\Brett's Way Cool Invoice App.exe
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\bin\Debug\Brett's Way Cool Invoice App.pdb
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\obj\Debug\Brett's Way Cool Invoice App.csprojResolveAssemblyReference.cache
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\obj\Debug\Brett_s_Way_Cool_Invoice_App.Form1.resources
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\obj\Debug\Brett_s_Way_Cool_Invoice_App.Properties.Resources.resources
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\obj\Debug\Brett's Way Cool Invoice App.csproj.GenerateResource.Cache
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\obj\Debug\Brett's Way Cool Invoice App.exe
+c:\users\fantasticmonkey\documents\visual studio 2012\Projects\Brett's Way Cool Invoice App\Brett's Way Cool Invoice App\obj\Debug\Brett's Way Cool Invoice App.pdb
